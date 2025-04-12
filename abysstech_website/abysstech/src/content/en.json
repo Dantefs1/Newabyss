@@ -1,0 +1,165 @@
+{
+  "nav": {
+    "home": "Home",
+    "product": "Product",
+    "tokenomics": "Tokenomics",
+    "roadmap": "Roadmap",
+    "team": "Team",
+    "community": "Community"
+  },
+  "hero": {
+    "title": "Abysstech",
+    "subtitle": "Decentralized Anonymous Communication",
+    "description": "A fully anonymous, decentralized communication platform built on Solana blockchain",
+    "cta": "Learn More"
+  },
+  "product": {
+    "title": "Secure Communication for the Digital Age",
+    "description": "Abysstech provides a revolutionary communication platform that ensures complete anonymity and privacy through advanced encryption and blockchain technology.",
+    "features": [
+      {
+        "title": "Complete Anonymity",
+        "description": "Our platform ensures that your identity remains completely anonymous, with no data collection or tracking."
+      },
+      {
+        "title": "Decentralized Infrastructure",
+        "description": "Built on Solana blockchain, our platform operates without central servers, making it resistant to censorship and control."
+      },
+      {
+        "title": "End-to-End Encryption",
+        "description": "All communications are protected with military-grade encryption, ensuring that only intended recipients can access your messages."
+      },
+      {
+        "title": "Blockchain Verification",
+        "description": "Message integrity is verified through blockchain technology, preventing tampering or manipulation."
+      }
+    ]
+  },
+  "tokenomics": {
+    "title": "Tokenomics",
+    "description": "Our ABYSS token is the foundation of our ecosystem, providing governance rights and platform utility.",
+    "contractAddress": "8zJ9SsXM2j7AmBimsKuNrpQBBiTYwJyWzGUQfPPjr7Ny",
+    "copyText": "Copy Address",
+    "copiedText": "Copied!",
+    "distribution": {
+      "title": "Token Distribution",
+      "categories": [
+        {
+          "name": "Community & Ecosystem",
+          "percentage": 40,
+          "description": "Reserved for community incentives, ecosystem growth, and user rewards"
+        },
+        {
+          "name": "Team & Advisors",
+          "percentage": 20,
+          "description": "Allocated to team members and advisors with 2-year vesting period"
+        },
+        {
+          "name": "Development Fund",
+          "percentage": 15,
+          "description": "Dedicated to ongoing platform development and technical improvements"
+        },
+        {
+          "name": "Private Sale",
+          "percentage": 10,
+          "description": "Distributed to early investors with 1-year vesting period"
+        },
+        {
+          "name": "Public Sale",
+          "percentage": 10,
+          "description": "Available for public token sale participants"
+        },
+        {
+          "name": "Liquidity Provision",
+          "percentage": 5,
+          "description": "Allocated for exchange liquidity and market stability"
+        }
+      ]
+    }
+  },
+  "roadmap": {
+    "title": "Roadmap",
+    "phases": [
+      {
+        "title": "Phase 1: Foundation (Q2 2025)",
+        "items": [
+          "Token launch on Solana",
+          "Alpha version of communication platform",
+          "Core team expansion",
+          "Community building initiatives"
+        ]
+      },
+      {
+        "title": "Phase 2: Development (Q3-Q4 2025)",
+        "items": [
+          "Beta release of full platform",
+          "Mobile application development",
+          "Integration with other blockchain networks",
+          "Security audits and optimizations"
+        ]
+      },
+      {
+        "title": "Phase 3: Expansion (Q1-Q2 2026)",
+        "items": [
+          "Official platform launch",
+          "Advanced features implementation",
+          "Strategic partnerships",
+          "Governance protocol activation"
+        ]
+      },
+      {
+        "title": "Phase 4: Evolution (Q3 2026 and beyond)",
+        "items": [
+          "Decentralized autonomous organization (DAO) formation",
+          "Cross-chain interoperability",
+          "Enterprise solutions",
+          "Global adoption initiatives"
+        ]
+      }
+    ]
+  },
+  "team": {
+    "title": "Our Team",
+    "description": "A group of privacy advocates, blockchain experts, and security specialists committed to creating a truly anonymous communication platform.",
+    "members": [
+      {
+        "name": "Alexander Wright",
+        "role": "Founder & CEO",
+        "bio": "Blockchain pioneer with 10+ years in cybersecurity and privacy technologies"
+      },
+      {
+        "name": "Sophia Chen",
+        "role": "CTO",
+        "bio": "Former security architect with expertise in encryption and distributed systems"
+      },
+      {
+        "name": "Marcus Johnson",
+        "role": "Head of Product",
+        "bio": "Product strategist specialized in blockchain applications and user experience"
+      },
+      {
+        "name": "Eliza Kowalski",
+        "role": "Blockchain Developer",
+        "bio": "Solana ecosystem expert with multiple successful DeFi projects"
+      }
+    ]
+  },
+  "community": {
+    "title": "Join Our Community",
+    "description": "Connect with us and become part of the Abysstech revolution.",
+    "platforms": {
+      "telegram": "Join Telegram",
+      "twitter": "Follow on X",
+      "github": "Explore GitHub",
+      "discord": "Join Discord"
+    }
+  },
+  "footer": {
+    "copyright": "© 2025 Abysstech. All rights reserved.",
+    "links": {
+      "privacy": "Privacy Policy",
+      "terms": "Terms of Service",
+      "contact": "Contact"
+    }
+  }
+}

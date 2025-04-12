@@ -1,0 +1,165 @@
+{
+  "nav": {
+    "home": "Inicio",
+    "product": "Producto",
+    "tokenomics": "Tokenomics",
+    "roadmap": "Hoja de ruta",
+    "team": "Equipo",
+    "community": "Comunidad"
+  },
+  "hero": {
+    "title": "Abysstech",
+    "subtitle": "Comunicación anónima descentralizada",
+    "description": "Una plataforma de comunicación completamente anónima y descentralizada construida en la blockchain de Solana",
+    "cta": "Saber más"
+  },
+  "product": {
+    "title": "Comunicación segura para la era digital",
+    "description": "Abysstech proporciona una plataforma de comunicación revolucionaria que garantiza el anonimato completo y la privacidad a través de tecnología avanzada de encriptación y blockchain.",
+    "features": [
+      {
+        "title": "Anonimato completo",
+        "description": "Nuestra plataforma asegura que tu identidad permanezca completamente anónima, sin recopilación de datos ni seguimiento."
+      },
+      {
+        "title": "Infraestructura descentralizada",
+        "description": "Construida en la blockchain de Solana, nuestra plataforma opera sin servidores centrales, haciéndola resistente a la censura y al control."
+      },
+      {
+        "title": "Encriptación de extremo a extremo",
+        "description": "Todas las comunicaciones están protegidas con encriptación de nivel militar, asegurando que solo los destinatarios previstos puedan acceder a tus mensajes."
+      },
+      {
+        "title": "Verificación blockchain",
+        "description": "La integridad de los mensajes se verifica a través de la tecnología blockchain, evitando la manipulación o alteración."
+      }
+    ]
+  },
+  "tokenomics": {
+    "title": "Tokenomics",
+    "description": "Nuestro token ABYSS es la base de nuestro ecosistema, proporcionando derechos de gobernanza y utilidad en la plataforma.",
+    "contractAddress": "8zJ9SsXM2j7AmBimsKuNrpQBBiTYwJyWzGUQfPPjr7Ny",
+    "copyText": "Copiar dirección",
+    "copiedText": "¡Copiado!",
+    "distribution": {
+      "title": "Distribución de tokens",
+      "categories": [
+        {
+          "name": "Comunidad y ecosistema",
+          "percentage": 40,
+          "description": "Reservado para incentivos comunitarios, crecimiento del ecosistema y recompensas para usuarios"
+        },
+        {
+          "name": "Equipo y asesores",
+          "percentage": 20,
+          "description": "Asignado a miembros del equipo y asesores con un período de adquisición de 2 años"
+        },
+        {
+          "name": "Fondo de desarrollo",
+          "percentage": 15,
+          "description": "Dedicado al desarrollo continuo de la plataforma y mejoras técnicas"
+        },
+        {
+          "name": "Venta privada",
+          "percentage": 10,
+          "description": "Distribuido a inversores tempranos con un período de adquisición de 1 año"
+        },
+        {
+          "name": "Venta pública",
+          "percentage": 10,
+          "description": "Disponible para participantes en la venta pública de tokens"
+        },
+        {
+          "name": "Provisión de liquidez",
+          "percentage": 5,
+          "description": "Asignado para liquidez en exchanges y estabilidad del mercado"
+        }
+      ]
+    }
+  },
+  "roadmap": {
+    "title": "Hoja de ruta",
+    "phases": [
+      {
+        "title": "Fase 1: Fundación (Q2 2025)",
+        "items": [
+          "Lanzamiento del token en Solana",
+          "Versión alfa de la plataforma de comunicación",
+          "Expansión del equipo principal",
+          "Iniciativas de construcción de comunidad"
+        ]
+      },
+      {
+        "title": "Fase 2: Desarrollo (Q3-Q4 2025)",
+        "items": [
+          "Lanzamiento beta de la plataforma completa",
+          "Desarrollo de aplicación móvil",
+          "Integración con otras redes blockchain",
+          "Auditorías de seguridad y optimizaciones"
+        ]
+      },
+      {
+        "title": "Fase 3: Expansión (Q1-Q2 2026)",
+        "items": [
+          "Lanzamiento oficial de la plataforma",
+          "Implementación de características avanzadas",
+          "Asociaciones estratégicas",
+          "Activación del protocolo de gobernanza"
+        ]
+      },
+      {
+        "title": "Fase 4: Evolución (Q3 2026 en adelante)",
+        "items": [
+          "Formación de organización autónoma descentralizada (DAO)",
+          "Interoperabilidad entre cadenas",
+          "Soluciones empresariales",
+          "Iniciativas de adopción global"
+        ]
+      }
+    ]
+  },
+  "team": {
+    "title": "Nuestro equipo",
+    "description": "Un grupo de defensores de la privacidad, expertos en blockchain y especialistas en seguridad comprometidos con la creación de una plataforma de comunicación verdaderamente anónima.",
+    "members": [
+      {
+        "name": "Alexander Wright",
+        "role": "Fundador y CEO",
+        "bio": "Pionero de blockchain con más de 10 años en ciberseguridad y tecnologías de privacidad"
+      },
+      {
+        "name": "Sophia Chen",
+        "role": "CTO",
+        "bio": "Ex arquitecta de seguridad con experiencia en encriptación y sistemas distribuidos"
+      },
+      {
+        "name": "Marcus Johnson",
+        "role": "Jefe de Producto",
+        "bio": "Estratega de producto especializado en aplicaciones blockchain y experiencia de usuario"
+      },
+      {
+        "name": "Eliza Kowalski",
+        "role": "Desarrolladora Blockchain",
+        "bio": "Experta en el ecosistema Solana con múltiples proyectos DeFi exitosos"
+      }
+    ]
+  },
+  "community": {
+    "title": "Únete a nuestra comunidad",
+    "description": "Conéctate con nosotros y forma parte de la revolución Abysstech.",
+    "platforms": {
+      "telegram": "Unirse a Telegram",
+      "twitter": "Seguir en X",
+      "github": "Explorar GitHub",
+      "discord": "Unirse a Discord"
+    }
+  },
+  "footer": {
+    "copyright": "© 2025 Abysstech. Todos los derechos reservados.",
+    "links": {
+      "privacy": "Política de privacidad",
+      "terms": "Términos de servicio",
+      "contact": "Contacto"
+    }
+  }
+}

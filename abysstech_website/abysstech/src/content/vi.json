@@ -1,0 +1,165 @@
+{
+  "nav": {
+    "home": "Trang chủ",
+    "product": "Sản phẩm",
+    "tokenomics": "Tokenomics",
+    "roadmap": "Lộ trình",
+    "team": "Đội ngũ",
+    "community": "Cộng đồng"
+  },
+  "hero": {
+    "title": "Abysstech",
+    "subtitle": "Giao tiếp ẩn danh phi tập trung",
+    "description": "Nền tảng giao tiếp hoàn toàn ẩn danh, phi tập trung được xây dựng trên blockchain Solana",
+    "cta": "Tìm hiểu thêm"
+  },
+  "product": {
+    "title": "Giao tiếp an toàn cho kỷ nguyên số",
+    "description": "Abysstech cung cấp nền tảng giao tiếp cách mạng đảm bảo tính ẩn danh và bảo mật hoàn toàn thông qua công nghệ mã hóa và blockchain tiên tiến.",
+    "features": [
+      {
+        "title": "Hoàn toàn ẩn danh",
+        "description": "Nền tảng của chúng tôi đảm bảo danh tính của bạn hoàn toàn ẩn danh, không thu thập dữ liệu hoặc theo dõi."
+      },
+      {
+        "title": "Cơ sở hạ tầng phi tập trung",
+        "description": "Được xây dựng trên blockchain Solana, nền tảng của chúng tôi hoạt động mà không cần máy chủ trung tâm, giúp nó chống lại kiểm duyệt và kiểm soát."
+      },
+      {
+        "title": "Mã hóa đầu cuối",
+        "description": "Tất cả các giao tiếp đều được bảo vệ bằng mã hóa cấp độ quân sự, đảm bảo rằng chỉ người nhận dự định mới có thể truy cập tin nhắn của bạn."
+      },
+      {
+        "title": "Xác minh blockchain",
+        "description": "Tính toàn vẹn của tin nhắn được xác minh thông qua công nghệ blockchain, ngăn chặn giả mạo hoặc thao túng."
+      }
+    ]
+  },
+  "tokenomics": {
+    "title": "Tokenomics",
+    "description": "Token ABYSS của chúng tôi là nền tảng của hệ sinh thái, cung cấp quyền quản trị và tiện ích nền tảng.",
+    "contractAddress": "8zJ9SsXM2j7AmBimsKuNrpQBBiTYwJyWzGUQfPPjr7Ny",
+    "copyText": "Sao chép địa chỉ",
+    "copiedText": "Đã sao chép!",
+    "distribution": {
+      "title": "Phân phối token",
+      "categories": [
+        {
+          "name": "Cộng đồng & Hệ sinh thái",
+          "percentage": 40,
+          "description": "Dành cho khuyến khích cộng đồng, phát triển hệ sinh thái và phần thưởng người dùng"
+        },
+        {
+          "name": "Đội ngũ & Cố vấn",
+          "percentage": 20,
+          "description": "Phân bổ cho thành viên đội ngũ và cố vấn với thời gian vesting 2 năm"
+        },
+        {
+          "name": "Quỹ phát triển",
+          "percentage": 15,
+          "description": "Dành cho phát triển nền tảng liên tục và cải tiến kỹ thuật"
+        },
+        {
+          "name": "Bán riêng tư",
+          "percentage": 10,
+          "description": "Phân phối cho nhà đầu tư sớm với thời gian vesting 1 năm"
+        },
+        {
+          "name": "Bán công khai",
+          "percentage": 10,
+          "description": "Có sẵn cho người tham gia bán token công khai"
+        },
+        {
+          "name": "Cung cấp thanh khoản",
+          "percentage": 5,
+          "description": "Phân bổ cho thanh khoản sàn giao dịch và ổn định thị trường"
+        }
+      ]
+    }
+  },
+  "roadmap": {
+    "title": "Lộ trình",
+    "phases": [
+      {
+        "title": "Giai đoạn 1: Nền tảng (Q2 2025)",
+        "items": [
+          "Ra mắt token trên Solana",
+          "Phiên bản Alpha của nền tảng giao tiếp",
+          "Mở rộng đội ngũ cốt lõi",
+          "Sáng kiến xây dựng cộng đồng"
+        ]
+      },
+      {
+        "title": "Giai đoạn 2: Phát triển (Q3-Q4 2025)",
+        "items": [
+          "Phát hành Beta của nền tảng đầy đủ",
+          "Phát triển ứng dụng di động",
+          "Tích hợp với các mạng blockchain khác",
+          "Kiểm toán bảo mật và tối ưu hóa"
+        ]
+      },
+      {
+        "title": "Giai đoạn 3: Mở rộng (Q1-Q2 2026)",
+        "items": [
+          "Ra mắt nền tảng chính thức",
+          "Triển khai tính năng nâng cao",
+          "Đối tác chiến lược",
+          "Kích hoạt giao thức quản trị"
+        ]
+      },
+      {
+        "title": "Giai đoạn 4: Tiến hóa (Q3 2026 trở đi)",
+        "items": [
+          "Hình thành tổ chức tự trị phi tập trung (DAO)",
+          "Khả năng tương tác giữa các chuỗi",
+          "Giải pháp doanh nghiệp",
+          "Sáng kiến áp dụng toàn cầu"
+        ]
+      }
+    ]
+  },
+  "team": {
+    "title": "Đội ngũ của chúng tôi",
+    "description": "Một nhóm những người ủng hộ quyền riêng tư, chuyên gia blockchain và chuyên gia bảo mật cam kết tạo ra một nền tảng giao tiếp thực sự ẩn danh.",
+    "members": [
+      {
+        "name": "Alexander Wright",
+        "role": "Nhà sáng lập & CEO",
+        "bio": "Người tiên phong blockchain với hơn 10 năm trong lĩnh vực an ninh mạng và công nghệ bảo mật"
+      },
+      {
+        "name": "Sophia Chen",
+        "role": "CTO",
+        "bio": "Cựu kiến trúc sư bảo mật với chuyên môn về mã hóa và hệ thống phân tán"
+      },
+      {
+        "name": "Marcus Johnson",
+        "role": "Trưởng phòng Sản phẩm",
+        "bio": "Chiến lược gia sản phẩm chuyên về ứng dụng blockchain và trải nghiệm người dùng"
+      },
+      {
+        "name": "Eliza Kowalski",
+        "role": "Nhà phát triển Blockchain",
+        "bio": "Chuyên gia hệ sinh thái Solana với nhiều dự án DeFi thành công"
+      }
+    ]
+  },
+  "community": {
+    "title": "Tham gia cộng đồng của chúng tôi",
+    "description": "Kết nối với chúng tôi và trở thành một phần của cuộc cách mạng Abysstech.",
+    "platforms": {
+      "telegram": "Tham gia Telegram",
+      "twitter": "Theo dõi trên X",
+      "github": "Khám phá GitHub",
+      "discord": "Tham gia Discord"
+    }
+  },
+  "footer": {
+    "copyright": "© 2025 Abysstech. Đã đăng ký bản quyền.",
+    "links": {
+      "privacy": "Chính sách bảo mật",
+      "terms": "Điều khoản dịch vụ",
+      "contact": "Liên hệ"
+    }
+  }
+}

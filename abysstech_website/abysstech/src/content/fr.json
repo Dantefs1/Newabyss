@@ -1,0 +1,165 @@
+{
+  "nav": {
+    "home": "Accueil",
+    "product": "Produit",
+    "tokenomics": "Tokenomics",
+    "roadmap": "Feuille de route",
+    "team": "Équipe",
+    "community": "Communauté"
+  },
+  "hero": {
+    "title": "Abysstech",
+    "subtitle": "Communication anonyme décentralisée",
+    "description": "Une plateforme de communication entièrement anonyme et décentralisée construite sur la blockchain Solana",
+    "cta": "En savoir plus"
+  },
+  "product": {
+    "title": "Communication sécurisée pour l'ère numérique",
+    "description": "Abysstech fournit une plateforme de communication révolutionnaire qui garantit un anonymat complet et la confidentialité grâce à des technologies avancées de cryptage et de blockchain.",
+    "features": [
+      {
+        "title": "Anonymat complet",
+        "description": "Notre plateforme garantit que votre identité reste totalement anonyme, sans collecte ni suivi de données."
+      },
+      {
+        "title": "Infrastructure décentralisée",
+        "description": "Construite sur la blockchain Solana, notre plateforme fonctionne sans serveurs centraux, la rendant résistante à la censure et au contrôle."
+      },
+      {
+        "title": "Cryptage de bout en bout",
+        "description": "Toutes les communications sont protégées par un cryptage de niveau militaire, garantissant que seuls les destinataires prévus peuvent accéder à vos messages."
+      },
+      {
+        "title": "Vérification blockchain",
+        "description": "L'intégrité des messages est vérifiée par la technologie blockchain, empêchant toute falsification ou manipulation."
+      }
+    ]
+  },
+  "tokenomics": {
+    "title": "Tokenomics",
+    "description": "Notre token ABYSS est le fondement de notre écosystème, offrant des droits de gouvernance et une utilité sur la plateforme.",
+    "contractAddress": "8zJ9SsXM2j7AmBimsKuNrpQBBiTYwJyWzGUQfPPjr7Ny",
+    "copyText": "Copier l'adresse",
+    "copiedText": "Copié !",
+    "distribution": {
+      "title": "Distribution des tokens",
+      "categories": [
+        {
+          "name": "Communauté et écosystème",
+          "percentage": 40,
+          "description": "Réservé aux incitations communautaires, à la croissance de l'écosystème et aux récompenses des utilisateurs"
+        },
+        {
+          "name": "Équipe et conseillers",
+          "percentage": 20,
+          "description": "Alloué aux membres de l'équipe et aux conseillers avec une période d'acquisition de 2 ans"
+        },
+        {
+          "name": "Fonds de développement",
+          "percentage": 15,
+          "description": "Dédié au développement continu de la plateforme et aux améliorations techniques"
+        },
+        {
+          "name": "Vente privée",
+          "percentage": 10,
+          "description": "Distribué aux premiers investisseurs avec une période d'acquisition d'un an"
+        },
+        {
+          "name": "Vente publique",
+          "percentage": 10,
+          "description": "Disponible pour les participants à la vente publique de tokens"
+        },
+        {
+          "name": "Provision de liquidité",
+          "percentage": 5,
+          "description": "Alloué à la liquidité des échanges et à la stabilité du marché"
+        }
+      ]
+    }
+  },
+  "roadmap": {
+    "title": "Feuille de route",
+    "phases": [
+      {
+        "title": "Phase 1 : Fondation (T2 2025)",
+        "items": [
+          "Lancement du token sur Solana",
+          "Version alpha de la plateforme de communication",
+          "Expansion de l'équipe principale",
+          "Initiatives de construction communautaire"
+        ]
+      },
+      {
+        "title": "Phase 2 : Développement (T3-T4 2025)",
+        "items": [
+          "Version bêta de la plateforme complète",
+          "Développement d'applications mobiles",
+          "Intégration avec d'autres réseaux blockchain",
+          "Audits de sécurité et optimisations"
+        ]
+      },
+      {
+        "title": "Phase 3 : Expansion (T1-T2 2026)",
+        "items": [
+          "Lancement officiel de la plateforme",
+          "Implémentation de fonctionnalités avancées",
+          "Partenariats stratégiques",
+          "Activation du protocole de gouvernance"
+        ]
+      },
+      {
+        "title": "Phase 4 : Évolution (T3 2026 et au-delà)",
+        "items": [
+          "Formation d'une organisation autonome décentralisée (DAO)",
+          "Interopérabilité entre chaînes",
+          "Solutions d'entreprise",
+          "Initiatives d'adoption mondiale"
+        ]
+      }
+    ]
+  },
+  "team": {
+    "title": "Notre équipe",
+    "description": "Un groupe de défenseurs de la vie privée, d'experts en blockchain et de spécialistes de la sécurité engagés à créer une plateforme de communication véritablement anonyme.",
+    "members": [
+      {
+        "name": "Alexander Wright",
+        "role": "Fondateur et PDG",
+        "bio": "Pionnier de la blockchain avec plus de 10 ans d'expérience en cybersécurité et technologies de confidentialité"
+      },
+      {
+        "name": "Sophia Chen",
+        "role": "CTO",
+        "bio": "Ancienne architecte de sécurité avec une expertise en cryptage et systèmes distribués"
+      },
+      {
+        "name": "Marcus Johnson",
+        "role": "Responsable produit",
+        "bio": "Stratège produit spécialisé dans les applications blockchain et l'expérience utilisateur"
+      },
+      {
+        "name": "Eliza Kowalski",
+        "role": "Développeuse blockchain",
+        "bio": "Experte de l'écosystème Solana avec plusieurs projets DeFi réussis"
+      }
+    ]
+  },
+  "community": {
+    "title": "Rejoignez notre communauté",
+    "description": "Connectez-vous avec nous et devenez partie intégrante de la révolution Abysstech.",
+    "platforms": {
+      "telegram": "Rejoindre Telegram",
+      "twitter": "Suivre sur X",
+      "github": "Explorer GitHub",
+      "discord": "Rejoindre Discord"
+    }
+  },
+  "footer": {
+    "copyright": "© 2025 Abysstech. Tous droits réservés.",
+    "links": {
+      "privacy": "Politique de confidentialité",
+      "terms": "Conditions d'utilisation",
+      "contact": "Contact"
+    }
+  }
+}

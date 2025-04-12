@@ -1,0 +1,165 @@
+{
+  "nav": {
+    "home": "首页",
+    "product": "产品",
+    "tokenomics": "代币经济",
+    "roadmap": "路线图",
+    "team": "团队",
+    "community": "社区"
+  },
+  "hero": {
+    "title": "Abysstech",
+    "subtitle": "去中心化匿名通讯",
+    "description": "基于Solana区块链构建的完全匿名、去中心化通讯平台",
+    "cta": "了解更多"
+  },
+  "product": {
+    "title": "数字时代的安全通讯",
+    "description": "Abysstech提供一个革命性的通讯平台，通过先进的加密和区块链技术确保完全的匿名性和隐私保护。",
+    "features": [
+      {
+        "title": "完全匿名",
+        "description": "我们的平台确保您的身份完全匿名，不进行数据收集或跟踪。"
+      },
+      {
+        "title": "去中心化基础设施",
+        "description": "基于Solana区块链构建，我们的平台无需中央服务器，使其能够抵抗审查和控制。"
+      },
+      {
+        "title": "端到端加密",
+        "description": "所有通讯都受到军事级加密保护，确保只有预期接收者才能访问您的消息。"
+      },
+      {
+        "title": "区块链验证",
+        "description": "消息完整性通过区块链技术验证，防止篡改或操纵。"
+      }
+    ]
+  },
+  "tokenomics": {
+    "title": "代币经济",
+    "description": "我们的ABYSS代币是我们生态系统的基础，提供治理权和平台实用性。",
+    "contractAddress": "8zJ9SsXM2j7AmBimsKuNrpQBBiTYwJyWzGUQfPPjr7Ny",
+    "copyText": "复制地址",
+    "copiedText": "已复制！",
+    "distribution": {
+      "title": "代币分配",
+      "categories": [
+        {
+          "name": "社区和生态系统",
+          "percentage": 40,
+          "description": "用于社区激励、生态系统发展和用户奖励"
+        },
+        {
+          "name": "团队和顾问",
+          "percentage": 20,
+          "description": "分配给团队成员和顾问，有2年锁定期"
+        },
+        {
+          "name": "开发基金",
+          "percentage": 15,
+          "description": "专用于持续的平台开发和技术改进"
+        },
+        {
+          "name": "私募",
+          "percentage": 10,
+          "description": "分配给早期投资者，有1年锁定期"
+        },
+        {
+          "name": "公募",
+          "percentage": 10,
+          "description": "提供给公开代币销售参与者"
+        },
+        {
+          "name": "流动性提供",
+          "percentage": 5,
+          "description": "分配用于交易所流动性和市场稳定性"
+        }
+      ]
+    }
+  },
+  "roadmap": {
+    "title": "路线图",
+    "phases": [
+      {
+        "title": "第一阶段：基础 (2025年第二季度)",
+        "items": [
+          "在Solana上发布代币",
+          "通讯平台的Alpha版本",
+          "核心团队扩展",
+          "社区建设计划"
+        ]
+      },
+      {
+        "title": "第二阶段：开发 (2025年第三至第四季度)",
+        "items": [
+          "完整平台的Beta版发布",
+          "移动应用程序开发",
+          "与其他区块链网络集成",
+          "安全审计和优化"
+        ]
+      },
+      {
+        "title": "第三阶段：扩展 (2026年第一至第二季度)",
+        "items": [
+          "平台正式发布",
+          "高级功能实施",
+          "战略合作伙伴关系",
+          "治理协议激活"
+        ]
+      },
+      {
+        "title": "第四阶段：演进 (2026年第三季度及以后)",
+        "items": [
+          "去中心化自治组织(DAO)形成",
+          "跨链互操作性",
+          "企业解决方案",
+          "全球采用计划"
+        ]
+      }
+    ]
+  },
+  "team": {
+    "title": "我们的团队",
+    "description": "一群隐私倡导者、区块链专家和安全专家，致力于创建一个真正匿名的通讯平台。",
+    "members": [
+      {
+        "name": "Alexander Wright",
+        "role": "创始人兼首席执行官",
+        "bio": "区块链先驱，拥有10年以上网络安全和隐私技术经验"
+      },
+      {
+        "name": "Sophia Chen",
+        "role": "首席技术官",
+        "bio": "前安全架构师，专长于加密和分布式系统"
+      },
+      {
+        "name": "Marcus Johnson",
+        "role": "产品负责人",
+        "bio": "产品战略专家，专注于区块链应用和用户体验"
+      },
+      {
+        "name": "Eliza Kowalski",
+        "role": "区块链开发者",
+        "bio": "Solana生态系统专家，拥有多个成功的DeFi项目经验"
+      }
+    ]
+  },
+  "community": {
+    "title": "加入我们的社区",
+    "description": "与我们联系，成为Abysstech革命的一部分。",
+    "platforms": {
+      "telegram": "加入Telegram",
+      "twitter": "关注X",
+      "github": "探索GitHub",
+      "discord": "加入Discord"
+    }
+  },
+  "footer": {
+    "copyright": "© 2025 Abysstech. 保留所有权利。",
+    "links": {
+      "privacy": "隐私政策",
+      "terms": "服务条款",
+      "contact": "联系我们"
+    }
+  }
+}

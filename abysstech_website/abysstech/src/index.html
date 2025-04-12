@@ -1,0 +1,368 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Abysstech - 匿名去中心化通讯</title>
+    
+    <!-- 字体 -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Orbitron:wght@400;500;600;700;800&family=Rajdhani:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    
+    <!-- Font Awesome 图标 -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    
+    <!-- 主样式表 -->
+    <link rel="stylesheet" href="styles/main.css">
+</head>
+<body>
+    <!-- 加载动画 -->
+    <div class="loader">
+        <div class="loader-content">
+            <div class="loader-spinner"></div>
+            <div class="loader-text">ABYSSTECH</div>
+        </div>
+    </div>
+
+    <!-- 动态背景 -->
+    <div class="dynamic-bg"></div>
+    
+    <!-- 导航栏 -->
+    <nav class="navbar">
+        <a href="#" class="navbar-logo">ABYSS<span>TECH</span></a>
+        <div class="navbar-links">
+            <a href="#about" class="navbar-link">关于我们</a>
+            <a href="#features" class="navbar-link">产品特性</a>
+            <a href="#tokenomics" class="navbar-link">经济模型</a>
+            <a href="#roadmap" class="navbar-link">路线图</a>
+            <a href="#team" class="navbar-link">团队</a>
+            <a href="#contact" class="navbar-link">联系我们</a>
+        </div>
+        <div class="language-switcher">
+            <button class="language-switcher-btn">
+                <span>中文</span>
+                <i class="fas fa-chevron-down"></i>
+            </button>
+            <div class="language-options">
+                <div class="language-option" data-lang="en">English</div>
+                <div class="language-option" data-lang="zh">中文</div>
+                <div class="language-option" data-lang="vi">Tiếng Việt</div>
+                <div class="language-option" data-lang="ja">日本語</div>
+                <div class="language-option" data-lang="ru">Русский</div>
+                <div class="language-option" data-lang="fr">Français</div>
+                <div class="language-option" data-lang="de">Deutsch</div>
+                <div class="language-option" data-lang="es">Español</div>
+                <div class="language-option" data-lang="ar">العربية</div>
+            </div>
+        </div>
+    </nav>
+    
+    <!-- 英雄区域 -->
+    <section class="hero">
+        <div class="hero-content">
+            <h1 class="fade-in">探索真正的数字自由</h1>
+            <p class="fade-in delay-1">Abysstech提供完全匿名、去中心化的通讯解决方案，保护您的隐私，掌控您的数据</p>
+            <a href="#about" class="cta-button fade-in delay-2">了解更多</a>
+        </div>
+        <div class="scroll-indicator fade-in delay-3">
+            <span>向下滚动</span>
+            <i class="fas fa-chevron-down"></i>
+        </div>
+    </section>
+    
+    <!-- 关于我们 -->
+    <section id="about" class="section">
+        <h2 class="section-title">关于 Abysstech</h2>
+        <div class="about-content">
+            <p>Abysstech 是一款革命性的去中心化通讯软件，我们的使命是在日益被监控的数字世界中，为用户提供真正的隐私和安全。我们相信每个人都有权利进行不受审查和监控的通讯。</p>
+            <p>我们的平台建立在 Solana 区块链上，利用先进的加密技术和去中心化架构，确保您的通讯内容完全匿名且不可追踪。我们的原生代币不仅用于平台内的交易，还将作为我们社区的治理代币，让用户真正参与平台的发展决策。</p>
+        </div>
+    </section>
+    
+    <!-- 产品特性 -->
+    <section id="features" class="section">
+        <h2 class="section-title">产品特性</h2>
+        <div class="features">
+            <div class="feature-card">
+                <div class="feature-icon">
+                    <i class="fas fa-user-secret"></i>
+                </div>
+                <h3 class="feature-title">完全匿名</h3>
+                <p class="feature-description">无需电话号码或电子邮件，无需个人信息，保护您的真实身份不被泄露。</p>
+            </div>
+            <div class="feature-card">
+                <div class="feature-icon">
+                    <i class="fas fa-network-wired"></i>
+                </div>
+                <h3 class="feature-title">去中心化架构</h3>
+                <p class="feature-description">没有中央服务器，数据分布式存储，不存在单点故障或审查风险。</p>
+            </div>
+            <div class="feature-card">
+                <div class="feature-icon">
+                    <i class="fas fa-lock"></i>
+                </div>
+                <h3 class="feature-title">端到端加密</h3>
+                <p class="feature-description">所有通讯内容均采用军事级加密技术，确保只有通讯双方能够访问内容。</p>
+            </div>
+            <div class="feature-card">
+                <div class="feature-icon">
+                    <i class="fas fa-meteor"></i>
+                </div>
+                <h3 class="feature-title">闪电般速度</h3>
+                <p class="feature-description">基于Solana区块链，享受极速交易和通讯体验，无需等待。</p>
+            </div>
+            <div class="feature-card">
+                <div class="feature-icon">
+                    <i class="fas fa-vote-yea"></i>
+                </div>
+                <h3 class="feature-title">社区治理</h3>
+                <p class="feature-description">持有我们的代币，参与平台决策投票，共同塑造Abysstech的未来。</p>
+            </div>
+            <div class="feature-card">
+                <div class="feature-icon">
+                    <i class="fas fa-exchange-alt"></i>
+                </div>
+                <h3 class="feature-title">跨平台支持</h3>
+                <p class="feature-description">在任何设备上无缝使用，包括桌面、移动设备和网页版。</p>
+            </div>
+        </div>
+    </section>
+    
+    <!-- 代币合约地址 -->
+    <section class="contract-address">
+        <h3>Solana 代币合约地址</h3>
+        <div class="contract-box">
+            <div class="contract-address-text">AbT8X7nKzH9JgvFmxnKe5wgT6PUcVKjPxMsdMqpVm2Lq</div>
+            <button class="copy-button" id="copyContractBtn">
+                <i class="fas fa-copy"></i> 复制
+            </button>
+        </div>
+        <p>在 Solana 区块链上发行，确保交易透明和安全</p>
+    </section>
+    
+    <!-- 经济模型 -->
+    <section id="tokenomics" class="section">
+        <h2 class="section-title">经济模型</h2>
+        <div class="tokenomics">
+            <div class="chart-container">
+                <canvas id="tokenomicsChart"></canvas>
+            </div>
+            <div class="allocation-details">
+                <div class="allocation-item">
+                    <div class="allocation-color" style="background-color: rgba(0, 229, 255, 0.8);"></div>
+                    <span class="allocation-label">社区奖励</span>
+                    <span class="allocation-percentage">30%</span>
+                </div>
+                <div class="allocation-item">
+                    <div class="allocation-color" style="background-color: rgba(0, 255, 157, 0.8);"></div>
+                    <span class="allocation-label">团队与顾问</span>
+                    <span class="allocation-percentage">20%</span>
+                </div>
+                <div class="allocation-item">
+                    <div class="allocation-color" style="background-color: rgba(157, 0, 255, 0.8);"></div>
+                    <span class="allocation-label">生态系统发展</span>
+                    <span class="allocation-percentage">15%</span>
+                </div>
+                <div class="allocation-item">
+                    <div class="allocation-color" style="background-color: rgba(255, 119, 0, 0.8);"></div>
+                    <span class="allocation-label">流动性提供</span>
+                    <span class="allocation-percentage">15%</span>
+                </div>
+                <div class="allocation-item">
+                    <div class="allocation-color" style="background-color: rgba(255, 42, 42, 0.8);"></div>
+                    <span class="allocation-label">市场营销</span>
+                    <span class="allocation-percentage">10%</span>
+                </div>
+                <div class="allocation-item">
+                    <div class="allocation-color" style="background-color: rgba(42, 42, 90, 0.8);"></div>
+                    <span class="allocation-label">战略合作伙伴</span>
+                    <span class="allocation-percentage">5%</span>
+                </div>
+                <div class="allocation-item">
+                    <div class="allocation-color" style="background-color: rgba(26, 26, 58, 0.8);"></div>
+                    <span class="allocation-label">储备基金</span>
+                    <span class="allocation-percentage">5%</span>
+                </div>
+            </div>
+        </div>
+        <div class="tokenomics-details">
+            <h3>代币用途</h3>
+            <p>Abysstech代币(ABT)是我们生态系统的核心，具有多种用途：</p>
+            <ul>
+                <li><strong>治理权：</strong> 持有者可以参与平台决策投票</li>
+                <li><strong>服务费用：</strong> 使用高级功能需支付ABT代币</li>
+                <li><strong>激励机制：</strong> 为网络贡献者提供奖励</li>
+                <li><strong>质押收益：</strong> 质押ABT获得网络收益分成</li>
+                <li><strong>社区活动：</strong> 参与专属活动和空投机会</li>
+            </ul>
+        </div>
+    </section>
+    
+    <!-- 路线图 -->
+    <section id="roadmap" class="section">
+        <h2 class="section-title">路线图</h2>
+        <div class="roadmap">
+            <div class="roadmap-item">
+                <div class="roadmap-date">2025 Q2</div>
+                <h3 class="roadmap-title">创世阶段</h3>
+                <p class="roadmap-description">
+                    • Abysstech概念构想与团队组建<br>
+                    • 技术架构设计与原型开发<br>
+                    • 代币经济模型设计<br>
+                    • 官方网站与社交媒体渠道上线
+                </p>
+            </div>
+            <div class="roadmap-item">
+                <div class="roadmap-date">2025 Q3</div>
+                <h3 class="roadmap-title">种子阶段</h3>
+                <p class="roadmap-description">
+                    • ABT代币在Solana上发行<br>
+                    • 私募融资与社区建设<br>
+                    • 核心通讯协议开发<br>
+                    • 安全审计与漏洞赏金计划启动
+                </p>
+            </div>
+            <div class="roadmap-item">
+                <div class="roadmap-date">2025 Q4</div>
+                <h3 class="roadmap-title">成长阶段</h3>
+                <p class="roadmap-description">
+                    • Alpha版应用发布（桌面端）<br>
+                    • 去中心化存储网络整合<br>
+                    • 社区治理机制实施<br>
+                    • 战略合作伙伴关系建立
+                </p>
+            </div>
+            <div class="roadmap-item">
+                <div class="roadmap-date">2026 Q1</div>
+                <h3 class="roadmap-title">扩展阶段</h3>
+                <p class="roadmap-description">
+                    • Beta版应用发布（移动端）<br>
+                    • 跨链桥接功能实现<br>
+                    • 高级加密功能整合<br>
+                    • 全球市场营销活动启动
+                </p>
+            </div>
+            <div class="roadmap-item">
+                <div class="roadmap-date">2026 Q2</div>
+                <h3 class="roadmap-title">成熟阶段</h3>
+                <p class="roadmap-description">
+                    • 正式版应用全平台发布<br>
+                    • 去中心化身份验证系统上线<br>
+                    • 开发者API与SDK发布<br>
+                    • 生态系统扩展与应用场景拓展
+                </p>
+            </div>
+            <div class="roadmap-item">
+                <div class="roadmap-date">2026 Q3及以后</div>
+                <h3 class="roadmap-title">愿景阶段</h3>
+                <p class="roadmap-description">
+                    • 全球用户规模突破1000万<br>
+                    • 建立去中心化自治组织(DAO)<br>
+                    • 推出加密货币支付与交易功能<br>
+                    • 拓展元宇宙通讯解决方案
+                </p>
+            </div>
+        </div>
+    </section>
+    
+    <!-- 团队成员 -->
+    <section id="team" class="section">
+        <h2 class="section-title">我们的团队</h2>
+        <div class="team">
+            <div class="team-member">
+                <img src="images/team-member-1.jpg" alt="Alex Morgan" class="member-image">
+                <div class="member-info">
+                    <h3 class="member-name">Alex Morgan</h3>
+                    <div class="member-role">创始人 & CEO</div>
+                    <p class="member-bio">区块链安全专家，拥有10年加密技术经验，曾任职于多家知名科技公司，致力于构建更加隐私和安全的互联网。</p>
+                </div>
+            </div>
+            <div class="team-member">
+                <img src="images/team-member-2.jpg" alt="Sophia Chen" class="member-image">
+                <div class="member-info">
+                    <h3 class="member-name">Sophia Chen</h3>
+                    <div class="member-role">CTO</div>
+                    <p class="member-bio">分布式系统专家，前Google高级工程师，拥有多项加密通讯专利，负责Abysstech核心技术架构设计。</p>
+                </div>
+            </div>
+            <div class="team-member">
+                <img src="images/team-member-3.jpg" alt="Marcus Williams" class="member-image">
+                <div class="member-info">
+                    <h3 class="member-name">Marcus Williams</h3>
+                    <div class="member-role">产品总监</div>
+                    <p class="member-bio">用户体验设计专家，曾参与多个成功的加密项目开发，专注于创造直观且功能强大的产品体验。</p>
+                </div>
+            </div>
+            <div class="team-member">
+                <img src="images/team-member-4.jpg" alt="Elena Petrova" class="member-image">
+                <div class="member-info">
+                    <h3 class="member-name">Elena Petrova</h3>
+                    <div class="member-role">区块链架构师</div>
+                    <p class="member-bio">Solana生态系统专家，拥有丰富的智能合约开发经验，负责Abysstech的代币经济模型设计与实现。</p>
+                </div>
+            </div>
+        </div>
+    </section>
+    
+    <!-- 社交媒体链接 -->
+    <section id="contact" class="section">
+        <h2 class="section-title">加入我们的社区</h2>
+        <div class="social-links">
+            <a href="#" class="social-link" target="_blank">
+                <i class="fab fa-x-twitter"></i>
+            </a>
+            <a href="#" class="social-link" target="_blank">
+                <i class="fab fa-telegram"></i>
+            </a>
+            <a href="#" class="social-link" target="_blank">
+                <i class="fab fa-discord"></i>
+            </a>
+            <a href="#" class="social-link" target="_blank">
+                <i class="fab fa-github"></i>
+            </a>
+            <a href="#" class="social-link" target="_blank">
+                <i class="fab fa-medium"></i>
+            </a>
+        </div>
+    </section>
+    
+    <!-- 页脚 -->
+    <footer class="footer">
+        <div class="footer-content">
+            <div>
+                <div class="footer-logo">ABYSS<span>TECH</span></div>
+                <p class="footer-description">重新定义数字通讯的隐私与安全标准，为用户带来真正的数字自由。</p>
+            </div>
+            <div>
+                <h3 class="footer-title">快速链接</h3>
+                <div class="footer-links">
+                    <a href="#about" class="footer-link">关于我们</a>
+                    <a href="#features" class="footer-link">产品特性</a>
+                    <a href="#tokenomics" class="footer-link">经济模型</a>
+                    <a href="#roadmap" class="footer-link">路线图</a>
+                    <a href="#team" class="footer-link">团队</a>
+                </div>
+            </div>
+            <div>
+                <h3 class="footer-title">法律信息</h3>
+                <div class="footer-links">
+                    <a href="#" class="footer-link">服务条款</a>
+                    <a href="#" class="footer-link">隐私政策</a>
+                    <a href="#" class="footer-link">风险披露</a>
+                    <a href="#" class="footer-link">免责声明</a>
+                </div>
+            </div>
+        </div>
+        <div class="footer-bottom">
+            <p>&copy; 2025 Abysstech. 保留所有权利。</p>
+        </div>
+    </footer>
+    
+    <!-- Chart.js -->
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    
+    <!-- 主脚本 -->
+    <script src="scripts/main.js"></script>
+</body>
+</html>
